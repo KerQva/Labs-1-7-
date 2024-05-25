@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1713259657 source:c:\users\huawei\desktop\c-программы лаб\lab\lab.c
+	"Lab.h"
+
+1713259015 source:c:\users\huawei\desktop\c-программы лаб\lab\main.c
+	"lab.h"
+
+1713258475 c:\users\huawei\desktop\c-программы лаб\lab\lab.h
+	<stdio.h>
+
+1715350046 source:c:\users\huawei\desktop\папки\c-программы лаб\lab\main.c
+	"lab.h"
+
+1714317302 c:\users\huawei\desktop\папки\c-программы лаб\lab\lab.h
+	<stdio.h>
+
+1716382975 source:c:\users\huawei\desktop\папки\c-программы лаб\lab\lab.c
+	"Lab.h"
+	<stdio.h>
+
